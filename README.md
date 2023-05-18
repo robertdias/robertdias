@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @robertdias
 - 👀 I’m interested in all things IaC.
-- 🌱 I’m currently learning Azure Stack Hub.
 - 💞️ I’m looking to collaborate on Terraform development for Azure.
 - 📫 How to reach me ...
 
